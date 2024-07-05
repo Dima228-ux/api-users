@@ -1,5 +1,5 @@
 ## Backend
-1. Выполняем настройку .env
+1. Копируем .env.example в .env
 2.  Скачиваем зависимости
 
         composer install
